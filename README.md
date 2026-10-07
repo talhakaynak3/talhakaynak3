@@ -5,17 +5,13 @@
   Türkiye'nin HVAC teknik servis bilgi tabanı, sahada çalışan teknisyenler için.
 </p>
 
-<p align="center">
-  <a href="https://xn--clvo-cpa.com"><strong>clévo.com →</strong></a>
-</p>
-
 ---
 
 ### Projeler
 
 | | Ne yapar |
 |---|---|
-| **[Clévo AI](https://github.com/talhakaynak3/clevo-ai)** · <sub>canlı</sub> | HVAC teknik servis RAG sistemi. 27 marka, 5607 arıza kaydı; teknisyen metin, fotoğraf veya sesle sorar. Hibrit arama: kod eşleşmesi + `bge-m3` vektör + Okapi BM25 (RRF). |
+| **[Clévo AI](https://github.com/talhakaynak3/clevo-ai)** | HVAC teknik servis RAG sistemi. 27 marka, 5607 arıza kaydı; teknisyen metin, fotoğraf veya sesle sorar. Hibrit arama: kod eşleşmesi + `bge-m3` vektör + Okapi BM25 (RRF). |
 | **[Yapı Sağlığı](https://github.com/talhakaynak3/yapi-sagligi-projesi)** | Deprem riski ön tarama. İl/ilçe tehlike haritası + yapısal zafiyet puanlaması (yumuşak kat, kısa kolon, burulma, çarpışma) → gerekçeli risk seviyesi. FastAPI + RandomForest. |
 | **[Pose + Depth Form Analizi](https://github.com/talhakaynak3/pose-depth-form-analizi)** | Videodan egzersiz formu analizi. MediaPipe Pose (eklem açıları) + MiDaS (göreli derinlik); eşik yazmak yerine doğru form videosundan öğrenir. |
 
