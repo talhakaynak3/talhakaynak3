@@ -1,8 +1,6 @@
 <h1 align="center">Talha Kaynak</h1>
 
 <p align="center">
-  Yapay zekâ destekli sistemler kuruyorum — şu sıra <strong>Clévo AI</strong>:<br>
-  Türkiye'nin HVAC teknik servis bilgi tabanı, sahada çalışan teknisyenler için.
 </p>
 
 ---
